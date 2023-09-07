@@ -13,10 +13,10 @@ Documentation Roadmap
 ^^^^^^^^^^^^^^^^^^^^^
 The following is a list of hipTensor documents in the suggested reading order:
 
- - Getting Started Guide (this document): Describes how to install and configure the hipTensor library; designed to get users up and running quickly with the library.
- - API Reference Guide : Provides detailed information about hipTensor functions, data types and other programming constructs.
- - Programmer's Guide: Describes the code organization, Design implementation detail and those that should be considered for new development and Testing & Benchmarking detail.
- - Contributor's Guide : Describes coding guidelines for contributors.
+ - 1. Linux Install Guide: Describes how to install and configure the hipTensor library; designed to get users up and running quickly with the library.
+ - 2. Programmer's Guide: Describes the code organization, Design implementation detail and those that should be considered for new development and Testing & Benchmarking detail.
+ - 3. API Reference Guide : Provides detailed information about hipTensor functions, data types and other programming constructs.
+ - 4. Contributor's Guide : Describes coding guidelines for contributors.
 
 -------------
 Prerequisites
